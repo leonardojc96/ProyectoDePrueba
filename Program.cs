@@ -17,6 +17,10 @@ namespace ProyectoDePrueba
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            /*
+             Este es un comentario de prueba perri
+             */
         }
     }
 }
